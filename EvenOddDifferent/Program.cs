@@ -11,6 +11,7 @@ namespace EvenOddDifferent
         static void Main(string[] args)
         {
 
+
             Console.WriteLine("Podaj liczbę całkowitą, program określi czy jest liczba parzysta czy nieparzysta!");
             var number = GetNumber();
 
